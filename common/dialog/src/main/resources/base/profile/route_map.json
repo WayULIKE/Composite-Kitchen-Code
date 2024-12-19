@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "HintDialog",
+      "pageSourceFile": "src/main/ets/components/hint/HintDialog.ets",
+      "buildFunction": "RegisterBuilder",
+      "data": {
+        "description" : "this is HintDialog"
+      }
+    }
+  ]
+}
